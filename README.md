@@ -39,7 +39,7 @@ The following images is the sceenshot of web application's appearance and functi
 
 ## Link
 
-Click [here](https://jollypong.github.io/SalBot/) to the deployed website
+Click [here](https://travis-anderson023.github.io/SalBot/) to the deployed website
 
 
 ## Contributor
